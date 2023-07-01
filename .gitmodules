@@ -4,3 +4,6 @@
 [submodule "templates/Project"]
 	path = templates/Project
 	url = https://github.com/KentVejrupMadsen/Template.PHP.Project.git
+[submodule "projects/Portfolio"]
+	path = projects/Portfolio
+	url = https://github.com/KentVejrupMadsen/Portfolio.git
