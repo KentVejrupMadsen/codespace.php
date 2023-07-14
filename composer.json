@@ -2,6 +2,8 @@
     "name": "designermadsen/codespace",
     "description": "codespace for small & medium size scripts that i am experiementing with. before moving it to Gists, or other repositories. also a place for notes, templates, etc.",
     "readme": "Readme.md",
+    "version": "0.2.5",
+    "type": "project",
 
     "require":
     {
