@@ -1,6 +1,6 @@
 # Files & Directories to ignore
 # Directories to ignore
-vendors/*
+vendor/*
 
 # File extensions to ignore
 *.lock
