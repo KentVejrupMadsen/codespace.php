@@ -4,6 +4,8 @@
     "readme": "Readme.md",
     "version": "0.2.5",
     "type": "project",
+    
+    "license": "MIT",
 
     "require":
     {
