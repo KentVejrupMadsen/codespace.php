@@ -4,10 +4,13 @@
 *.md diff=markdown eol=crlf
 *.sh diff=sh eol=lf
 
+*.json diff=json eol=lf
+*.php diff=php eol=lf
 
 # Git attributes
 .gitignore text eol=lf
 .gitattributes text eol=lf
+.gitmodules text eol=lf
 
 /.github export-ignore
 CHANGELOG.md export-ignore
