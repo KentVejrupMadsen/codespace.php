@@ -1,3 +1,7 @@
 # Files & Directories to ignore
+# Directories to ignore
+vendors/*
 
+# File extensions to ignore
+*.lock
 
