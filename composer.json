@@ -1,18 +1,32 @@
 {
     "name": "designermadsen/codespace",
+    
     "description": "codespace for small & medium size scripts that i am experiementing with. before moving it to Gists, or other repositories. also a place for notes, templates, etc.",
+    
+    
     "readme": "Readme.md",
     "version": "0.2.5",
-    "type": "project",
     
+    "type": "project",
+
     "license": "MIT",
 
     "require":
     {
 
     },
+
     "require-dev": 
     {
 
-    }
+    },
+
+    "authors": [
+        {
+            "name": "Kent vejrup Madsen",
+            "email": "kent.vejrup.madsen@designermadsen.dk",
+            "homepage": "https://www.designermadsen.dk/",
+            "role": "developer"
+        }
+    ]
 }
